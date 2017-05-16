@@ -1,0 +1,75 @@
+body {
+	background-color: #4298f4;
+}
+
+.signup {
+	background-color: white;
+	width: 320px;
+	padding: 40px 40px 30px 40px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1 {
+	font-family: Courier;
+}
+
+.logo {
+	display: block;
+    height: 35px;
+    width: auto;
+	margin: 0 auto 30px;
+	padding: 50px;
+}
+
+fieldset {
+	margin-top: 40px;
+	font-family: Helvetica;
+	border: none;
+}
+
+.signup label {
+	 display: block;
+}
+
+.signup input {
+	 display: block;
+	 width: 290px;
+  	margin-bottom: 15px;
+  	padding: 15px;
+}
+
+p {
+	color: white;
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: bold;
+}
+
+p > a{
+	color: gray;
+}
+
+
+body.a {
+	color: white;
+}
+
+button {
+	width: 290px;
+	background-color: #42f49b;
+	color: white;
+	font-size: 20px;
+	padding: 15px;
+}
+
+.login {
+	text-align: center;
+}
+
+button:hover{
+	color: white;
+	background-color: green;
+
+}
