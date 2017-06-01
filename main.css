@@ -19,7 +19,7 @@ h1 {
 	display: block;
     height: 35px;
     width: auto;
-	margin: 0 auto 30px;
+	margin: 0 auto 0px;
 	padding: 50px;
 }
 
@@ -27,6 +27,7 @@ fieldset {
 	margin-top: 40px;
 	font-family: Helvetica;
 	border: none;
+	padding: 0;
 }
 
 .signup label {
@@ -57,7 +58,7 @@ body.a {
 }
 
 button {
-	width: 290px;
+	width: 320px;
 	background-color: #42f49b;
 	color: white;
 	font-size: 20px;
